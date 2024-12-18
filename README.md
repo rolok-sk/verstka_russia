@@ -4,6 +4,6 @@
 
 Описание: Данный проект направлен на ознакомление с адаптивной вёрсткой и тем как с ней работать.
 
-Сайт: https://rolok-sk.github.io/russian-travel/
+Сайт: https://rolok-sk.github.io/verstka_russia/
 
 
